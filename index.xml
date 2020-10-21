@@ -17,7 +17,7 @@
 <foaf:nick>AnonimowywSieci</foaf:nick>
 <foaf:mbox_sha1sum>b053de9a3b942e9de0e4cdd1a67a285bbef90805</foaf:mbox_sha1sum>
 <foaf:homepage rdf:resource="https://zespolowyeeg.github.io/FOAF/"/>
-<foaf:depiction rdf:resource="https://zespolowyeeg.github.io/FOAF/"/>
+<foaf:depiction rdf:resource="img_avatar.png"/>
 <foaf:phone rdf:resource="tel:987654321"/>
 <foaf:workplaceHomepage rdf:resource="www.zut.edu.pl"/>
 <foaf:workInfoHomepage rdf:resource="www.wi.zut.edu.pl/pl/"/>
