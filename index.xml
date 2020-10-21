@@ -26,12 +26,12 @@
 <foaf:Person>
 <foaf:name>Aleksandra</foaf:name>
 <foaf:mbox_sha1sum>4d47c8d8c16529bfec28b6fc9fd3fdb9dcdc4f97</foaf:mbox_sha1sum>
-<rdfs:seeAlso rdf:resource="http://www.stronaola.com/ola.xrdf"/></foaf:Person></foaf:knows>
+<rdfs:seeAlso rdf:resource="https://olixie.github.io/foaf/"/></foaf:Person></foaf:knows>
 <foaf:knows>
 <foaf:Person>
 <foaf:name>Łukasz</foaf:name>
 <foaf:mbox_sha1sum>a2cc17a388fd7a12b3951a24e984f4d807132482</foaf:mbox_sha1sum>
-<rdfs:seeAlso rdf:resource="http://www.stronalukasz.com/lukasz.xrdf"/></foaf:Person></foaf:knows>
+<rdfs:seeAlso rdf:resource="https://lukaszwydrzynski.github.io/PDS/"/></foaf:Person></foaf:knows>
 <foaf:knows>
 <foaf:Person>
 <foaf:name>Joanna</foaf:name>
